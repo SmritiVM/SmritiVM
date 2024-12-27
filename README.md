@@ -6,8 +6,6 @@ You can find me here :
 
 <p align="left">
     <a href="https://www.linkedin.com/in/smriti-madangarli-055481221/"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://leetcode.com/smriti_vm/"><img title="Leetcode Account" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-    <a href="mailto:skhimdngrl@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
